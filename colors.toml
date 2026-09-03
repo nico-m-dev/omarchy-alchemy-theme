@@ -1,0 +1,33 @@
+# Alchemy — fine-tuned from Aether extraction for a clean memento mori look.
+# Goud als accent, warm ivoor voor tekst, echte semantische kleuren.
+mode = "dark"
+
+accent = "#C08A3E"
+selection = "#1d1a16"
+muted = "#6E6760"
+
+background = "#0D0A07"
+dark_background = "#090705"
+darker_background = "#060403"
+lighter_background = "#1D1A16"
+
+foreground = "#D8D2C8"
+dark_foreground = "#9A948A"
+light_foreground = "#E6E0D6"
+bright_foreground = "#F0EBE2"
+
+red = "#C05A4A"
+yellow = "#D9B45C"
+orange = "#C07D3A"
+green = "#8AA65C"
+cyan = "#5E8F88"
+blue = "#5F7FA8"
+magenta = "#9E6F8F"
+brown = "#7A5C40"
+
+bright_red = "#D9775F"
+bright_yellow = "#E4C16E"
+bright_green = "#9DBB6E"
+bright_cyan = "#6FA39B"
+bright_blue = "#7092BD"
+bright_magenta = "#B186A3"
