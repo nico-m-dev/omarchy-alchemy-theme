@@ -59,14 +59,14 @@ Three original, 4K-optimized wallpapers — all in a dark medieval memento mori 
 
 A warm, high-contrast dark palette — aged gold on deep, near-black warm browns.
 
-| Role  | Color                                             |
-| ----- | ------------------------------------------------- |
-| Accent| `#C08A3E`  <span style="color:#C08A3E">▮</span>  |
-| Text  | `#D8D2C8`  <span style="color:#D8D2C8">▮</span>  |
-| Bg    | `#0D0A07`  <span style="color:#0D0A07">▮</span>  |
-| Red   | `#C05A4A`  <span style="color:#C05A4A">▮</span>  |
-| Green | `#8AA65C`  <span style="color:#8AA65C">▮</span>  |
-| Blue  | `#5F7FA8`  <span style="color:#5F7FA8">▮</span>  |
+| Role   | Color |
+| ------ | ----- |
+| Accent | <img src="https://img.shields.io/badge/-C08A3E-C08A3E?style=flat-square&color=C08A3E&labelColor=C08A3E" alt="#C08A3E" /> `#C08A3E` |
+| Text   | <img src="https://img.shields.io/badge/-D8D2C8-D8D2C8?style=flat-square&color=D8D2C8&labelColor=D8D2C8&logoColor=000" alt="#D8D2C8" /> `#D8D2C8` |
+| Bg     | <img src="https://img.shields.io/badge/-0D0A07-0D0A07?style=flat-square&color=0D0A07&labelColor=0D0A07" alt="#0D0A07" /> `#0D0A07` |
+| Red    | <img src="https://img.shields.io/badge/-C05A4A-C05A4A?style=flat-square&color=C05A4A&labelColor=C05A4A" alt="#C05A4A" /> `#C05A4A` |
+| Green  | <img src="https://img.shields.io/badge/-8AA65C-8AA65C?style=flat-square&color=8AA65C&labelColor=8AA65C&logoColor=000" alt="#8AA65C" /> `#8AA65C` |
+| Blue   | <img src="https://img.shields.io/badge/-5F7FA8-5F7FA8?style=flat-square&color=5F7FA8&labelColor=5F7FA8" alt="#5F7FA8" /> `#5F7FA8` |
 
 ## License
 
