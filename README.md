@@ -61,12 +61,12 @@ A warm, high-contrast dark palette — aged gold on deep, near-black warm browns
 
 | Role   | Color |
 | ------ | ----- |
-| Accent | <img src="https://img.shields.io/badge/-C08A3E-C08A3E?style=flat-square&color=C08A3E&labelColor=C08A3E" alt="#C08A3E" /> `#C08A3E` |
-| Text   | <img src="https://img.shields.io/badge/-D8D2C8-D8D2C8?style=flat-square&color=D8D2C8&labelColor=D8D2C8&logoColor=000" alt="#D8D2C8" /> `#D8D2C8` |
-| Bg     | <img src="https://img.shields.io/badge/-0D0A07-0D0A07?style=flat-square&color=0D0A07&labelColor=0D0A07" alt="#0D0A07" /> `#0D0A07` |
-| Red    | <img src="https://img.shields.io/badge/-C05A4A-C05A4A?style=flat-square&color=C05A4A&labelColor=C05A4A" alt="#C05A4A" /> `#C05A4A` |
-| Green  | <img src="https://img.shields.io/badge/-8AA65C-8AA65C?style=flat-square&color=8AA65C&labelColor=8AA65C&logoColor=000" alt="#8AA65C" /> `#8AA65C` |
-| Blue   | <img src="https://img.shields.io/badge/-5F7FA8-5F7FA8?style=flat-square&color=5F7FA8&labelColor=5F7FA8" alt="#5F7FA8" /> `#5F7FA8` |
+| Accent | <img src="https://img.shields.io/badge/%23-C08A3E?style=flat-square&color=C08A3E&labelColor=C08A3E" alt="#C08A3E" /> |
+| Text   | <img src="https://img.shields.io/badge/%23-D8D2C8?style=flat-square&color=D8D2C8&labelColor=D8D2C8&logoColor=000" alt="#D8D2C8" /> |
+| Bg     | <img src="https://img.shields.io/badge/%23-0D0A07?style=flat-square&color=0D0A07&labelColor=0D0A07" alt="#0D0A07" /> |
+| Red    | <img src="https://img.shields.io/badge/%23-C05A4A?style=flat-square&color=C05A4A&labelColor=C05A4A" alt="#C05A4A" /> |
+| Green  | <img src="https://img.shields.io/badge/%23-8AA65C?style=flat-square&color=8AA65C&labelColor=8AA65C&logoColor=000" alt="#8AA65C" /> |
+| Blue   | <img src="https://img.shields.io/badge/%23-5F7FA8?style=flat-square&color=5F7FA8&labelColor=5F7FA8" alt="#5F7FA8" /> |
 
 ## License
 
