@@ -59,14 +59,14 @@ Three original, 4K-optimized wallpapers — all in a dark medieval memento mori 
 
 A warm, high-contrast dark palette — aged gold on deep, near-black warm browns.
 
-| Role   | Color |
-| ------ | ----- |
-| Accent | <img src="https://img.shields.io/badge/%20-C08A3E?style=flat-square&color=C08A3E&labelColor=C08A3E" alt="#C08A3E" /> `#C08A3E` |
-| Text   | <img src="https://img.shields.io/badge/%20-D8D2C8?style=flat-square&color=D8D2C8&labelColor=D8D2C8" alt="#D8D2C8" /> `#D8D2C8` |
-| Bg     | <img src="https://img.shields.io/badge/%20-0D0A07?style=flat-square&color=0D0A07&labelColor=0D0A07" alt="#0D0A07" /> `#0D0A07` |
-| Red    | <img src="https://img.shields.io/badge/%20-C05A4A?style=flat-square&color=C05A4A&labelColor=C05A4A" alt="#C05A4A" /> `#C05A4A` |
-| Green  | <img src="https://img.shields.io/badge/%20-8AA65C?style=flat-square&color=8AA65C&labelColor=8AA65C" alt="#8AA65C" /> `#8AA65C` |
-| Blue   | <img src="https://img.shields.io/badge/%20-5F7FA8?style=flat-square&color=5F7FA8&labelColor=5F7FA8" alt="#5F7FA8" /> `#5F7FA8` |
+| Role   | Color     | Swatch                              |
+| ------ | --------- | ----------------------------------- |
+| Accent | `#C08A3E` | ![#C08A3E](assets/swatches/c08a3e.png) |
+| Text   | `#D8D2C8` | ![#D8D2C8](assets/swatches/d8d2c8.png) |
+| Bg     | `#0D0A07` | ![#0D0A07](assets/swatches/0d0a07.png) |
+| Red    | `#C05A4A` | ![#C05A4A](assets/swatches/c05a4a.png) |
+| Green  | `#8AA65C` | ![#8AA65C](assets/swatches/8aa65c.png) |
+| Blue   | `#5F7FA8` | ![#5F7FA8](assets/swatches/5f7fa8.png) |
 
 ## License
 
