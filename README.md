@@ -1,5 +1,7 @@
 # Alchemy
 
+[![Built for Omarchy: Theme](https://raw.githubusercontent.com/tcballard/omarchy-badges/75975e5b5bf75e7ede3764bcd2950046f7abfe2c/badges/v1/omarchy-theme.svg)](https://github.com/tcballard/omarchy-badges)
+
 > A dark, medieval memento mori theme for [Omarchy](https://omarchy.org/) —
 > warm ivories, aged gold accents, and the quiet contemplation of the
 > *danse macabre*. Built for those who like their desktops dark, warm, and
