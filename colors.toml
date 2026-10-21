@@ -1,10 +1,11 @@
-# Alchemy — fine-tuned from Aether extraction for a clean memento mori look.
-# Goud als accent, warm ivoor voor tekst, echte semantische kleuren.
+# Alchemy — memento mori: aged gold on warm near-black, ivory text.
+# Semantic colours are kept real (blue is blue) so terminal output stays readable.
 mode = "dark"
 
 accent = "#C08A3E"
-selection = "#1d1a16"
+selection = "#3A2E1E"
 muted = "#6E6760"
+hyprland_active_border = "rgba(c08a3eff)"
 
 background = "#0D0A07"
 dark_background = "#090705"
